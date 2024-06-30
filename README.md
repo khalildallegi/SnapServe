@@ -1,3 +1,7 @@
+![3](https://github.com/khalildallegi/SnapServe/assets/173565895/95a33a1c-2e22-4ec3-bd35-15fd625d3f5c)
+![Capture d’écran 2024-06-18 133741](https://github.com/khalildallegi/SnapServe/assets/173565895/2f08f752-2aca-44d2-bc6b-60304e1e8763)
+![Capture d’écran 2024-06-17 124615](https://github.com/khalildallegi/SnapServe/assets/173565895/284d4023-527a-475d-abf2-f26245ed25ba)
+![2](https://github.com/khalildallegi/SnapServe/assets/173565895/b80db672-5183-4b84-bd07-b21af11f3348)
 # SnapServe
 
 SnapServe is an innovative mobile application designed to streamline the order-taking process in restaurants, specifically tailored for waiters. Built using Flutter, SnapServe enhances both efficiency and customer satisfaction through its intuitive and feature-rich interface.
